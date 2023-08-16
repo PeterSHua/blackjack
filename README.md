@@ -1,3 +1,4 @@
-# blackjack
-Blackjack built with Ruby.
+## blackjack
 Refactored object orientated version on OO branch.
+
+![terminal](terminal.gif)
